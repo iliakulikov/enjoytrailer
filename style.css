@@ -164,7 +164,7 @@ div.screen3-content {
   }
 
   div.screen2-content {       
-    min-height: 100vh;     
+    /* min-height: 100vh;      */
   }
 
   .feature1, .feature2, .feature3 {
@@ -199,14 +199,14 @@ div.screen3-content {
   }
 
   .founders{
-    width: 50%;
+    width: 30%;
   }
 }
 
 @media screen and (max-width: 992px) {
 
   div.screen2-content {       
-    min-height: 100vh; 
+    /* min-height: 100vh;  */
     padding-top: 50px;
   }
 

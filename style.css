@@ -239,4 +239,8 @@ div.screen3-content {
   .feature3 img.feature-imgs {
     width: 80%;  /* reduces size by 20% */
   }
+  
+  .founders{
+    width: 30%;
+  }
 }
